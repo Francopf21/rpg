@@ -41,6 +41,7 @@ export default function PasswordGenerator() {
       })
     })
   }
+  
 
   return (
     <Card className="w-full max-w-md mx-auto">
